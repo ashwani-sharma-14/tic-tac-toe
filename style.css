@@ -12,8 +12,8 @@ body{
 }
 
 .tik{
-    height: 500px;
-    width : 500px;
+    height: 400px;
+    width : 400px;
     /* border:solid black 5px; */
     display:grid;
     grid-template-rows: repeat(3,1fr);
